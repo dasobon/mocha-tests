@@ -4,7 +4,7 @@
         "test:coverage": "nyc npm test"
     },
     "dependencies": {
-        "mocha": "^6.2.0",
+        "mocha": "^10.2.0",
         "nyc": "^14.1.1",
         "sinon": "^7.4.1"
     }
